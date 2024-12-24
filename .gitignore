@@ -1,0 +1,4 @@
+ema-venv/
+*.log
+*.csv
+daily_candles_5min/
